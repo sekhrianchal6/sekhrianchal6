@@ -1,3 +1,5 @@
+![](https://github.com/sekhrianchal6/sekhrianchal6/blob/main/16542.jpg)
+
 ### Hi there 👋, I am Anchal Sekhri
 ###  Data Science Enthusiast 
 
