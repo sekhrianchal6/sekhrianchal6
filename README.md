@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Anchal Sekhri, a Data Science enthusiast with 
 
 
 ## Portfolio Website
-[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://www.datascienceportfol.io/anchal_sekhri)
+[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://anchalsekhri.my.canva.site/)
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anchal.sekhri.31@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anchal-sekhri/) 
